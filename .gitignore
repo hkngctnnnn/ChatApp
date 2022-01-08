@@ -1,4 +1,7 @@
 # Logs
+node_modules/
+*.lock
+yarn.lock
 logs
 *.log
 npm-debug.log*
